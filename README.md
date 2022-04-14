@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m @isiiilent
-- 👀 I’m interested in software developmnent 
+- 👀 I’m interested in web developmnent 
 - 🌱 I’m currently learning data structures and algorithms , web development
 - 💞️ I’m looking to collaborate on projects 
 - ✅  instagram :- ayushh16__
