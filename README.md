@@ -19,7 +19,7 @@
 <p align="left">
 <a href="mailto:an4902@srmist.edu.in?'Reching out to you'='Hi, I want to enquire about...'" rel="noopener" target="_blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/apple-mail.png" alt="isiiilent" height="40" width="40" /></fa>
 </a>
- <a href="https://www.linkedin.com/in/ayushmeena/" target="blank"><img
+ <a href="https://www.instagram.com/ayushh16__/" target="blank"><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Ayush"
