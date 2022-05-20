@@ -46,7 +46,7 @@
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me :- 
 - ✅  Instagram :- ayushh16__
-- ✅  CodeChef :- isilent
+- ✅  CodeChef :- ayushm_16
 
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isiiilent&theme=ayu-mirage)
