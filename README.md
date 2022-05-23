@@ -41,7 +41,6 @@
 
 
 
-- 👀 I’m interested in Web developmnent 
 - 🌱 I’m currently learning data structures and algorithms , web development
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me :- 
